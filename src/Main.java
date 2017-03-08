@@ -9,5 +9,6 @@ public class Main {
         //ZeroGUI z = new ZeroGUI();
         //EnterTitle ent = new EnterTitle();
         //RadioGUI rad = new RadioGUI();
+        SchalterGUI salt = new SchalterGUI();
     }
 }
